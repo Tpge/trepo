@@ -1,0 +1,13 @@
+Package: com.alting.sileo
+Version: 0.3b1
+Architecture: iphoneos-arm
+Maintainer: Alting <admin@alting.cn>
+Filename: /ileo.deb
+Size: 840800
+MD5sum: 0D421583922A5057E303BBE83FDD9B58
+SHA1: 3F94D548B879F94F892E5DDAD49E1CADF867BC81
+SHA256: E97BB648D505E764F893E91B3CBA86868EBD4FBE5B85195794DC18C8D0DB60B5
+Section: Tweaks
+Description: ÐÂµÄSileoÉÌµê
+Author: Alting <admin@alting.cn>
+Name: Sileo Installer
